@@ -1,1 +1,1 @@
-training to create SVG elements
+react training to create SVG elements
